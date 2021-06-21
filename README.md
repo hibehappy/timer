@@ -1,2 +1,2 @@
 # timer
-podomoro timer(python)
+pomodoro timer(python)
